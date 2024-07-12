@@ -1,0 +1,1 @@
+sveltekit tailwind daisyui vanilla js starter**.
